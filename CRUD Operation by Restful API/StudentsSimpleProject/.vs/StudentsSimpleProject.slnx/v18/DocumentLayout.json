@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohan\\source\\repos\\StudentsSimpleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064B44B9-3E19-A59B-CEB4-A3C093F7A3F9}|StudentsSimpleProject.csproj|c:\\users\\mohan\\source\\repos\\studentssimpleproject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064B44B9-3E19-A59B-CEB4-A3C093F7A3F9}|StudentsSimpleProject.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\StudentsSimpleProject\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\StudentsSimpleProject\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:25:33.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
