@@ -1,0 +1,12 @@
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\bin\Debug\net8.0\StudentDataAccsessLayer.deps.json
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\bin\Debug\net8.0\StudentDataAccsessLayer.dll
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\bin\Debug\net8.0\StudentDataAccsessLayer.pdb
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\StudentDataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\StudentDataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\StudentDataAccsessLayer.AssemblyInfoInputs.cache
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\StudentDataAccsessLayer.AssemblyInfo.cs
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\StudentDataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\StudentDataAccsessLayer.dll
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\refint\StudentDataAccsessLayer.dll
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\StudentDataAccsessLayer.pdb
+C:\Users\mohan\source\repos\StudentDataAccsessLayer\obj\Debug\net8.0\ref\StudentDataAccsessLayer.dll

@@ -1,0 +1,15 @@
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\bin\Debug\net8.0\StundetApiBusinessLayer.deps.json
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\bin\Debug\net8.0\StundetApiBusinessLayer.dll
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\bin\Debug\net8.0\StundetApiBusinessLayer.pdb
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\bin\Debug\net8.0\StudentDataAccsessLayer.dll
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\bin\Debug\net8.0\StudentDataAccsessLayer.pdb
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.AssemblyInfo.cs
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetA.C3AE24B0.Up2Date
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.dll
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\refint\StundetApiBusinessLayer.dll
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.pdb
+C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\ref\StundetApiBusinessLayer.dll

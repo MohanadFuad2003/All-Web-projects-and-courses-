@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../StudentDataAccsessLayer/StudentDataAccsessLayer.csproj" />
+  <Project Path="../StundetApiBusinessLayer/StundetApiBusinessLayer.csproj" />
+  <Project Path="ApiWebLayer.csproj" />
+</Solution>

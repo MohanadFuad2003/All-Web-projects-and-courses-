@@ -1,0 +1,143 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background: rgba(0,0,0,0.3);
+    padding: 20px;
+    text-align: center;
+}
+
+    header h1 {
+        font-size: 2rem;
+        margin-bottom: 10px;
+    }
+
+#clock-container {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffd369;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.clock-title {
+    color: #fff;
+    font-weight: normal;
+}
+
+
+.container {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+    .card h2 {
+        margin-bottom: 15px;
+        color: #ffd369;
+    }
+
+    .card h3 {
+        margin: 15px 0 8px;
+        font-size: 1rem;
+        color: #fffae3;
+    }
+
+input {
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+}
+
+button {
+    background: #ff6b6b;
+    border: none;
+    color: #fff;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 100%;
+    font-size: 1rem;
+}
+
+    button:hover {
+        background: #e63946;
+        transform: translateY(-2px);
+    }
+
+.btn-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.results {
+    grid-column: 1 / -1;
+}
+
+.result {
+    margin-top: 15px;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+}
+
+th {
+    background: rgba(0,0,0,0.3);
+}
+
+.success {
+    color: #06d6a0;
+    font-weight: bold;
+}
+
+.error {
+    color: #ff595e;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background: rgba(0,0,0,0.3);
+}

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Students Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🎓 Students Management Dashboard</h1>
+        <div id="clock-container">
+            <span class="clock-title">⏰ Current Time in England : </span>
+            <span id="clock"></span>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Actions -->
+        <section class="card">
+            <h2>📋 View Students</h2>
+            <div class="btn-group">
+                <button onclick="getAllStudents()">Get All</button>
+                <button onclick="getPassedStudents()">Passed</button>
+                <button onclick="getMaxGradeStudents()">Top Students</button>
+                <button onclick="getAverageGrade()">Average Grade</button>
+            </div>
+
+            <h3>🔍 Search Student By ID</h3>
+            <input type="number" id="studentIdSearch" placeholder="Enter student ID" />
+            <button onclick="getStudentById()">Search</button>
+        </section>
+
+        <section class="card">
+            <h2>➕ Add Student</h2>
+            <input type="text" id="addName" placeholder="Name" />
+            <input type="number" id="addAge" placeholder="Age" />
+            <input type="number" id="addGrade" placeholder="Grade" />
+            <button onclick="addStudent()">Add Student</button>
+        </section>
+
+        <section class="card">
+            <h2>✏️ Update Student</h2>
+            <input type="number" id="updateId" placeholder="Student ID" />
+            <input type="text" id="updateName" placeholder="Name" />
+            <input type="number" id="updateAge" placeholder="Age" />
+            <input type="number" id="updateGrade" placeholder="Grade" />
+            <button onclick="updateStudent()">Update Student</button>
+        </section>
+
+        <section class="card">
+            <h2>🗑️ Delete Student</h2>
+            <input type="number" id="deleteId" placeholder="Student ID" />
+            <button onclick="deleteStudent()">Delete Student</button>
+        </section>
+
+        <!-- Results -->
+        <section class="card results">
+            <h2>📊 Results</h2>
+            <div id="result" class="result"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p> TEST CRUD OPERATIONS PAGES </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
