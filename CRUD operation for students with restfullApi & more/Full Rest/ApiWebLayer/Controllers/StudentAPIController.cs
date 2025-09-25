@@ -191,18 +191,7 @@ namespace ApiWebLayer.Controllers
 
             return Ok(existingStudent.SDTO);
 
-
-
-
-
-
-
-
-
         }
 
-
-
     }
-
 }

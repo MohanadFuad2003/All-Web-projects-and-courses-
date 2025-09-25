@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohan\\source\\repos\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj": {}
+    "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi & more\\Full Rest\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohan\\source\\repos\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj": {
+    "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi & more\\Full Rest\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohan\\source\\repos\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi & more\\Full Rest\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj",
         "projectName": "StudentDataAccsessLayer",
-        "projectPath": "C:\\Users\\mohan\\source\\repos\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj",
+        "projectPath": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi & more\\Full Rest\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj",
         "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohan\\source\\repos\\StudentDataAccsessLayer\\obj\\",
+        "outputPath": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi & more\\Full Rest\\StudentDataAccsessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

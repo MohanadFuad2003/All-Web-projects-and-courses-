@@ -279,5 +279,42 @@
         "StatusCode": 404
       }
     ]
+  },
+  {
+    "ContainingType": "ApiWebLayer.Controllers.TeacherAPIController",
+    "Method": "Login",
+    "RelativePath": "api/Teachers/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiWebLayer.Controllers.TeacherAPIController",
+    "Method": "Register",
+    "RelativePath": "api/Teachers/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teacher",
+        "Type": "StudentDataAccsessLayer.TeacherDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

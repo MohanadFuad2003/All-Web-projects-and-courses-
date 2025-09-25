@@ -3,6 +3,6 @@ var app = builder.Build();
 
 app.UseStaticFiles();
 
-app.MapFallbackToFile("index.html");
+app.MapFallbackToFile("login.html");
 
 app.Run();

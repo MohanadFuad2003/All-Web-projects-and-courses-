@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\",
+  "WorkspaceRootPath": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\source\\repos\\clinetapplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\clinetapplayer\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\source\\repos\\clinetapplayer\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\clinetapplayer\\wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\clinetapplayer\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\clinetapplayer\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\source\\repos\\clinetapplayer\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\clinetapplayer\\wwwroot\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:wwwroot\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\source\\repos\\clinetapplayer\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\clinetapplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\clinetapplayer\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{88AB39EF-687E-B3D4-9F6A-C86684268C7F}|ClinetAppLayer.csproj|solutionrelative:wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\login.css",
+              "RelativeDocumentMoniker": "wwwroot\\login.css",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\login.css",
+              "RelativeToolTip": "wwwroot\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T11:24:37.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\login.js",
+              "RelativeDocumentMoniker": "wwwroot\\login.js",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\login.js",
+              "RelativeToolTip": "wwwroot\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-25T11:11:56.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "wwwroot\\login.html",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\login.html",
+              "RelativeToolTip": "wwwroot\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-25T11:11:21.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:33:35.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "script.js",
-              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\wwwroot\\script.js",
-              "RelativeDocumentMoniker": "wwwroot\\script.js",
-              "ToolTip": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\wwwroot\\script.js",
-              "RelativeToolTip": "wwwroot\\script.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-09-22T00:32:18.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\wwwroot\\style.css",
-              "RelativeDocumentMoniker": "wwwroot\\style.css",
-              "ToolTip": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\wwwroot\\style.css",
-              "RelativeToolTip": "wwwroot\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-22T00:31:32.566Z"
+              "WhenOpened": "2025-09-22T00:33:35.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\script.js",
+              "RelativeToolTip": "wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-22T00:32:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\style.css",
+              "RelativeToolTip": "wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-22T00:31:32.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\mohan\\source\\repos\\ClinetAppLayer\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ClinetAppLayer\\wwwroot\\index.html",
               "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-22T00:30:25.937Z"
+              "WhenOpened": "2025-09-22T00:30:25.937Z",
+              "EditorCaption": ""
             }
           ]
         }

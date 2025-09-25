@@ -1,3 +1,6 @@
-wwwroot\script.js
-wwwroot\index.html
 wwwroot\style.css
+wwwroot\index.html
+wwwroot\login.css
+wwwroot\login.html
+wwwroot\login.js
+wwwroot\script.js

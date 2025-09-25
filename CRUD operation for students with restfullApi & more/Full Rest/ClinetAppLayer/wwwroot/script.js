@@ -1,19 +1,82 @@
-﻿const apiUrl = "https://localhost:7189/api/Students"; 
+﻿// script.js (modified to require login + show teacher name + logout)
+const apiUrl = "https://localhost:7189/api/Students";
+
+// --------- Authentication helpers ----------
+function getLoggedTeacher() {
+    return localStorage.getItem("teacherName");
+}
+
+function ensureAuthenticated() {
+    const teacher = getLoggedTeacher();
+    if (!teacher) {
+        // not logged in -> redirect to login page
+        window.location.href = "login.html";
+        return false;
+    }
+    return true;
+}
+
+function logout() {
+    localStorage.removeItem("teacherName");
+    window.location.href = "login.html";
+}
+
+// show teacher name in header and add logout button
+function decorateHeader() {
+    const teacher = getLoggedTeacher();
+    const headerH1 = document.querySelector("header h1");
+    if (headerH1) {
+        if (teacher) {
+            headerH1.innerText = `🎓 Welcome ${teacher} - Students Management Dashboard`;
+        } else {
+            headerH1.innerText = `🎓 Students Management Dashboard`;
+        }
+    }
+
+    // add logout button (if not already)
+    let header = document.querySelector("header");
+    if (header && teacher) {
+        if (!document.getElementById("logoutBtn")) {
+            const btn = document.createElement("button");
+            btn.id = "logoutBtn";
+            btn.textContent = "Logout";
+            btn.style.marginLeft = "12px";
+            btn.onclick = logout;
+            // put it next to clock-container if exists, else append
+            const clockContainer = document.getElementById("clock-container");
+            if (clockContainer) clockContainer.appendChild(btn);
+            else header.appendChild(btn);
+        }
+    }
+}
+
+// call on load
+decorateHeader();
+
+// redirect to login if not authenticated
+// allow login.html itself to load (so this script must be used on index.html only)
+if (!window.location.pathname.endsWith("login.html")) {
+    ensureAuthenticated();
+}
 
 // ---------- Get Methods ----------
 async function getAllStudents() {
+    if (!ensureAuthenticated()) return;
     fetchData(`${apiUrl}/GetAllStudents`, "All Students");
 }
 
 async function getPassedStudents() {
+    if (!ensureAuthenticated()) return;
     fetchData(`${apiUrl}/GetPassedStudents`, "Passed Students");
 }
 
 async function getMaxGradeStudents() {
+    if (!ensureAuthenticated()) return;
     fetchData(`${apiUrl}/GetStudentsWithMaxGrade`, "Top Students");
 }
 
 async function getAverageGrade() {
+    if (!ensureAuthenticated()) return;
     try {
         const res = await fetch(`${apiUrl}/GetAverageGrade`);
         if (!res.ok) throw new Error(await res.text());
@@ -27,6 +90,7 @@ async function getAverageGrade() {
 }
 
 async function getStudentById() {
+    if (!ensureAuthenticated()) return;
     const id = document.getElementById("studentIdSearch").value;
     if (!id) return alert("Enter an ID");
     fetchData(`${apiUrl}/GetStudentById/${id}`, `Student ${id}`);
@@ -34,6 +98,7 @@ async function getStudentById() {
 
 // ---------- Post ----------
 async function addStudent() {
+    if (!ensureAuthenticated()) return;
     const newStudent = {
         name: document.getElementById("addName").value,
         age: parseInt(document.getElementById("addAge").value),
@@ -56,6 +121,7 @@ async function addStudent() {
 
 // ---------- Put ----------
 async function updateStudent() {
+    if (!ensureAuthenticated()) return;
     const id = document.getElementById("updateId").value;
     const updatedStudent = {
         id: parseInt(id),
@@ -80,12 +146,13 @@ async function updateStudent() {
 
 // ---------- Delete ----------
 async function deleteStudent() {
+    if (!ensureAuthenticated()) return;
     const id = document.getElementById("deleteId").value;
     if (!id) return alert("Enter an ID");
 
     try {
         const res = await fetch(`${apiUrl}/DeleteStudent?id=${id}`, {
-            method: "PUT" 
+            method: "PUT"
         });
         if (!res.ok) throw new Error(await res.text());
         showSuccess(`Student with ID ${id} deleted`);
@@ -136,13 +203,24 @@ function renderTable(data, title) {
 }
 
 function showError(err) {
+    const msg = (err && err.message) ? err.message : String(err);
     document.getElementById("result").innerHTML =
-        `<p class="error">❌ ${err}</p>`;
+        `<p class="error">❌ ${escapeHtml(msg)}</p>`;
 }
 
 function showSuccess(msg) {
     document.getElementById("result").innerHTML =
-        `<p class="success">✅ ${msg}</p>`;
+        `<p class="success">✅ ${escapeHtml(msg)}</p>`;
+}
+
+// small escaping helper
+function escapeHtml(unsafe) {
+    return String(unsafe)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
 }
 
 function updateClock() {

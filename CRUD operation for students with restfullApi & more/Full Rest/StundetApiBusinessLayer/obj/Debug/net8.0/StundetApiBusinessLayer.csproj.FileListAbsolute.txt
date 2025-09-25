@@ -13,3 +13,19 @@ C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiB
 C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\refint\StundetApiBusinessLayer.dll
 C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.pdb
 C:\Users\mohan\source\repos\StundetApiBusinessLayer\obj\Debug\net8.0\ref\StundetApiBusinessLayer.dll
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\bin\Debug\net8.0\StundetApiBusinessLayer.deps.json
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\bin\Debug\net8.0\StundetApiBusinessLayer.dll
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\bin\Debug\net8.0\StundetApiBusinessLayer.pdb
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\bin\Debug\net8.0\StudentDataAccsessLayer.dll
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\bin\Debug\net8.0\StudentDataAccsessLayer.pdb
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.AssemblyInfo.cs
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.sourcelink.json
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetA.C3AE24B0.Up2Date
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.dll
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\refint\StundetApiBusinessLayer.dll
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\StundetApiBusinessLayer.pdb
+C:\Users\mohan\OneDrive\Desktop\Restfull-API-Projects-and-More\CRUD operation for students with restfullApi & more\Full Rest\StundetApiBusinessLayer\obj\Debug\net8.0\ref\StundetApiBusinessLayer.dll
