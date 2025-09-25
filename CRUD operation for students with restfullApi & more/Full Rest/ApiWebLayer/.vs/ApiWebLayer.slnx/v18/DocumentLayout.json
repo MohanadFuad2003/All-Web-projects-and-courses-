@@ -3,17 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ApiWebLayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88FD4FF8-D000-DAFB-4965-AF477E4B8F25}|ApiWebLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\apiweblayer\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88FD4FF8-D000-DAFB-4965-AF477E4B8F25}|ApiWebLayer.csproj|solutionrelative:controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AF82C8F-4D34-AD86-9EE4-D37A8AA08CD5}|..\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\studentdataaccsesslayer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F009823F-4181-0C89-EFCE-D0F51163555C}|..\\StundetApiBusinessLayer\\StundetApiBusinessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\stundetapibusinesslayer\\clsteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AF82C8F-4D34-AD86-9EE4-D37A8AA08CD5}|..\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\studentdataaccsesslayer\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF82C8F-4D34-AD86-9EE4-D37A8AA08CD5}|..\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\studentdataaccsesslayer\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AF82C8F-4D34-AD86-9EE4-D37A8AA08CD5}|..\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\studentdataaccsesslayer\\teacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AF82C8F-4D34-AD86-9EE4-D37A8AA08CD5}|..\\StudentDataAccsessLayer\\StudentDataAccsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\studentdataaccsesslayer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F009823F-4181-0C89-EFCE-D0F51163555C}|..\\StundetApiBusinessLayer\\StundetApiBusinessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\stundetapibusinesslayer\\clsstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FD4FF8-D000-DAFB-4965-AF477E4B8F25}|ApiWebLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\apiweblayer\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FD4FF8-D000-DAFB-4965-AF477E4B8F25}|ApiWebLayer.csproj|solutionrelative:controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F009823F-4181-0C89-EFCE-D0F51163555C}|..\\StundetApiBusinessLayer\\StundetApiBusinessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\restfull-api-projects-and-more\\crud operation for students with restfullapi \u0026 more\\full rest\\stundetapibusinesslayer\\clsteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,11 +32,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StudentDataAccsessLayer\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "..\\StudentDataAccsessLayer\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StudentDataAccsessLayer\\StudentDTO.cs",
+              "RelativeToolTip": "..\\StudentDataAccsessLayer\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:18:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StudentDataAccsessLayer\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "..\\StudentDataAccsessLayer\\TeacherDTO.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StudentDataAccsessLayer\\TeacherDTO.cs",
+              "RelativeToolTip": "..\\StudentDataAccsessLayer\\TeacherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:18:16.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsStudents.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StundetApiBusinessLayer\\clsStudents.cs",
+              "RelativeDocumentMoniker": "..\\StundetApiBusinessLayer\\clsStudents.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StundetApiBusinessLayer\\clsStudents.cs",
+              "RelativeToolTip": "..\\StundetApiBusinessLayer\\clsStudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:17:28.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TeacherAPIController.cs",
               "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\ApiWebLayer\\Controllers\\TeacherAPIController.cs",
               "RelativeDocumentMoniker": "Controllers\\TeacherAPIController.cs",
@@ -40,33 +88,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TeacherData.cs",
               "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StudentDataAccsessLayer\\TeacherData.cs",
               "RelativeDocumentMoniker": "..\\StudentDataAccsessLayer\\TeacherData.cs",
               "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StudentDataAccsessLayer\\TeacherData.cs",
               "RelativeToolTip": "..\\StudentDataAccsessLayer\\TeacherData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T11:04:57.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StudentData.cs",
               "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StudentDataAccsessLayer\\StudentData.cs",
               "RelativeDocumentMoniker": "..\\StudentDataAccsessLayer\\StudentData.cs",
               "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StudentDataAccsessLayer\\StudentData.cs",
               "RelativeToolTip": "..\\StudentDataAccsessLayer\\StudentData.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAAAOgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAN4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T11:04:40.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "clsTeachers.cs",
               "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Restfull-API-Projects-and-More\\CRUD operation for students with restfullApi \u0026 more\\Full Rest\\StundetApiBusinessLayer\\clsTeachers.cs",
               "RelativeDocumentMoniker": "..\\StundetApiBusinessLayer\\clsTeachers.cs",
@@ -74,8 +122,7 @@
               "RelativeToolTip": "..\\StundetApiBusinessLayer\\clsTeachers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T11:03:14.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T11:03:14.345Z"
             }
           ]
         }

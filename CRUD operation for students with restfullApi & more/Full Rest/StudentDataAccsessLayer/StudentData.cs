@@ -221,7 +221,7 @@ namespace StudentDataAccsessLayer
                     {
                         if (reader.Read())
                         {
-                            rowsAffected = reader.GetInt32(0); // القيمة من SELECT
+                            rowsAffected = reader.GetInt32(0); 
                         }
                     }
                 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiWebLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37d129c13209622818597d0efe6331b34c723113")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44ad3f087a1a41651c66e17b8816a76f4298e878")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiWebLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiWebLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
