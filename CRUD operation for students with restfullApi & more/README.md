@@ -31,6 +31,3 @@ The solution is organized into multiple layers:
    - Provides a simple front-end UI to interact with the API.  
    - Supports viewing, adding, updating, and deleting students.  
    - Uses `fetch` API for asynchronous calls.
-
----
-er UI will be available...
